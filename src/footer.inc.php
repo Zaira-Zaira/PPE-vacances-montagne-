@@ -7,7 +7,7 @@
                 <li><i class="far fa-envelope"></i> Email: mail@mail.com</li>
                 <li><i class="fas fa-angle-up"></i> Retour à l'accueil</li>
             </ul>
-           <p> &copy; Design by MIT 2019 </p> 
+           <p> &copy; Design by MIT 2020 </p> 
         </footer>
     
     <script src="./js/app.js"></script>
